@@ -29,6 +29,7 @@ genome
 genome_annotation_result
 genome_comparison_table
 genome_group
+gexf
 gff
 gif
 hdf
